@@ -1,0 +1,26 @@
+[
+   {
+      "salary": 40000,
+      "name": "John Doe",
+      "id": 1234,
+      "address": "2230 W. Treeline Dr.",
+      "city": "Tucson",
+      "state": "Arizona",
+      "telephone": "520-742-2448"
+   },
+   {
+      "salary": 60000,
+      "name": "Jane Doe",
+      "id": 4321
+   },
+   {
+      "salary": 140000,
+      "state": "Michigan",
+      "name": "Jack Dough",
+      "id": 12345,
+      "city": "Dearborn"
+      "phone": "303-427-0153",
+      "address": "24437 Princeton"
+   }
+]
+
